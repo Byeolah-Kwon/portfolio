@@ -16,7 +16,7 @@ function App() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold">About Me</h2>
         <p className="mt-2">
-          I'm passionate about technology, education, and making CS accessible. Currently teaching math and computer science while preparing for grad school.
+          I'm passionate about technology, education, and making CS accessible. I taught math and computer science while preparing for grad school.
         </p>
       </section>
 
@@ -38,7 +38,7 @@ function App() {
       {/* Contact Section */}
       <section className="mb-8">
         <h2 className="text-2xl font-semibold">Contact</h2>
-        <p className="mt-2">Email: byeolah@example.com</p>
+        <p className="mt-2">Email: byeolahk@gmail.com</p>
         <p>GitHub: <a className="text-blue-500" href="https://github.com/Byeolah-Kwon">@Byeolah-Kwon</a></p>
         <p>LinkedIn: <a className="text-blue-500" href="https://linkedin.com/in/byeolah">/in/byeolah</a></p>
       </section>
