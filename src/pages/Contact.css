@@ -1,0 +1,20 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    color: inherit; /* makes links use the same color as surrounding text */
+    text-decoration: none; /* removes the underline */
+    cursor: pointer; /* changes cursor on hover */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* optional: adds underline on hover */
+    color: #000000; /* optional: subtle hover color */
+  }

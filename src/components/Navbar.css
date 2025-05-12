@@ -1,0 +1,27 @@
+.menu_bar {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: sans-serif;
+    font-weight: 500;
+    z-index: 100;
+    /* box-shadow: 0 2px 5px rgba(189, 188, 188, 0.1); */
+}
+
+.menu_bar span {
+    cursor: pointer;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #666666;
+    transition: color 0.3s ease;
+}
+
+.menu_bar span:hover {
+    color: #000000;
+}

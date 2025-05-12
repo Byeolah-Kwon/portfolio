@@ -1,0 +1,12 @@
+.project_nav {
+    display: block;
+    padding-top: 40px; /* if navbar is fixed */
+    color: black;
+    text-align: center;
+    font-size: 20px;
+  }
+
+.project_section {
+    text-align: left;
+    margin-left: 10px;
+}
