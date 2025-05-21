@@ -8,5 +8,8 @@
 
 .project_section {
     text-align: left;
-    margin-left: 10px;
+    scroll-margin-top: 90px;
+    padding-top: 1rem;
+    padding-left: 20px;
+    /* margin-top: 20px; */
 }
